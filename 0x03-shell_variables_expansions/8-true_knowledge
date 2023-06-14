@@ -1,0 +1,1 @@
+#!/bin/bashecho $(($TRUEKNOWLEDGE + 128))
